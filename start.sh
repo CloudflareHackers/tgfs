@@ -1,3 +1,3 @@
-git clone "https://github.com/temp-deployers/HHStreamENVBot" tgfs
+git clone "https://github.com/CloudflareHackers/LinkerZ" tgfs
 cd tgfs
 python -m WebStreamer
